@@ -127,9 +127,9 @@
     <string name="event_type_hint">Tipo de evento</string>
     <string name="birthday">Cumpleaños</string>
     <string name="anniversary">Aniversario</string>
-    <string name="death_anniversary">Aniversario de la muerte</string>
+    <string name="death_anniversary">Aniversario luctuoso</string>
     <string name="festivity">Festividad</string>
-    <string name="name_day">Día del nombre</string>
+    <string name="name_day">Onomástica</string>
     <string name="other">Otro</string>
 
     <!-- Event actions -->
